@@ -1,4 +1,4 @@
-# Bob Blob's Bog Blog
+# React Loops and Props
 
 ## Learning Objectives
 - [More ES6 (Destructuring, Rest Parameters and Spread Operator)](./more-es6.md)
